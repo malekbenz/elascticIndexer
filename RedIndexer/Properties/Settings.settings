@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="RedIndexer.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="elasticAdresse" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://localhost:9200</Value>
+    </Setting>
+    <Setting Name="start" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">303430</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
